@@ -28,7 +28,8 @@ This website is designed to provide an overview of my professional background, i
 - HTML
 - CSS
 - JavaScript
-- [Add any frameworks or libraries you are using]
+- React.js
+- ASP.NET Core
 
 ## Setup
 
